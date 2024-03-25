@@ -10,3 +10,5 @@ In another tab
     python visualizer.py
 
 Open streamlit frontend with browser
+
+#### I wanted to implement winner with deep learning but it appeared to be too complicated so I just left the position and telemetry visualization
